@@ -1,0 +1,7 @@
+D:\mphasis\problem statement\days\day19\day19\day19\bin\Debug\day19.exe.config
+D:\mphasis\problem statement\days\day19\day19\day19\bin\Debug\day19.exe
+D:\mphasis\problem statement\days\day19\day19\day19\bin\Debug\day19.pdb
+D:\mphasis\problem statement\days\day19\day19\day19\obj\Debug\day19.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\days\day19\day19\day19\obj\Debug\day19.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\days\day19\day19\day19\obj\Debug\day19.exe
+D:\mphasis\problem statement\days\day19\day19\day19\obj\Debug\day19.pdb
